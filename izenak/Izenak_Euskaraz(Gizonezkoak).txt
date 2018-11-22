@@ -161,7 +161,7 @@ Apolonio
 Apraze
 Aralar
 Arano
-Arañotz
+AraÃ±otz
 Arato
 Aratz
 Arbogasto
@@ -291,7 +291,7 @@ Benedikto
 Benedite
 Benin
 Benito
-Beñat
+BeÃ±at
 Berasko
 Beraun
 Berbiz
@@ -312,7 +312,7 @@ Bilintx
 Bilitu
 Bingen
 Birila
-Bitaño
+BitaÃ±o
 Bittor
 Bittoren
 Bixintxo
@@ -434,7 +434,7 @@ Eneko
 Enekoitz
 Enio
 Enpedokles
-Eñaut
+EÃ±aut
 Eolo
 Eos
 Epaminondas
@@ -447,7 +447,7 @@ Erdain
 Erebo
 Ereinotz
 Erekteo
-Ereño
+EreÃ±o
 Ereti
 Erik
 Eritz
@@ -731,9 +731,9 @@ Inaxio
 Inazio
 Inozentzio
 Intxixu
-Iñaki
-Iñigo
-Iñizio
+IÃ±aki
+IÃ±igo
+IÃ±izio
 Ipar
 Irai
 Iraitz
@@ -1098,7 +1098,7 @@ Numa Ponpilio
 Numitor
 Nuno
 Nunu
-Nuño
+NuÃ±o
 Obeko
 Odoakro
 Odon
@@ -1114,7 +1114,7 @@ Oktavio
 Olegario
 Olio
 Ontzalu
-Oñatz
+OÃ±atz
 Orats
 Ordoitz
 Orentzi
@@ -1136,7 +1136,7 @@ Oskax
 Oskillaso
 Ostadar
 Ostertz
-Otaño
+OtaÃ±o
 Otili
 Oto
 Oton
